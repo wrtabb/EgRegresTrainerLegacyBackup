@@ -10,5 +10,4 @@
 *_C*
 *.pcm
 setpaths.txt
-applyRegression.sh
 compilePackage
